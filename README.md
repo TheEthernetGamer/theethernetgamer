@@ -1,10 +1,4 @@
-### Hi there 👋
-Welcome to my Profile!
+### Hi there 👋, here are my stats!
+![Stats_1](https://github-readme-stats.vercel.app/api?username=theethernetgamer&show_icons=true&theme=dark)
 
-I'm not really into coding, but still, i'm a little bit interested!
-
-Enjoy looking arround I guess
-
-
-## Repositories
-tbd
+![Stats_2](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
