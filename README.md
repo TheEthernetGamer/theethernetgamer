@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/TheEthernetGamer?template=classic&config.timezone=Europe%2FLisbon)
+![Metrics](https://metrics.lecoq.io/TheEthernetGamer?template=terminal&languages=1&introduction=1&stars=1&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&config.timezone=Europe%2FLisbon)
